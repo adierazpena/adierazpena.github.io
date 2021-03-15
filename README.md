@@ -1,5 +1,7 @@
 **Euskera** | [Castellano](es)
 
+<img src="img/icono.png">
+
 <h1 id="adierazpena" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#008080;">GIZARTE KOHESIOAREN ETA PARTE HARTZE DEMOKRATIKOAREN ALDEKO ADIERAZPENA EUSKAL HEZKUNTZAN</span></h1>
 
 * [Laburpena](#laburpena)
@@ -12,6 +14,8 @@
 ## Laburpena
 
 Zubiak Eraikiz Elkarteak sustatutako adierazpena hurrengo pertsonen babesarekin...
+
+<img src="img/zubiak-eraikiz_p.png">
 
 
 ## Adierazpena
@@ -36,7 +40,7 @@ Zubiak Eraikiz Elkarteak sustatutako adierazpena hurrengo pertsonen babesarekin.
  
 9. **Bi ardatz horiei buruzko itun bat egiteko beharra**. Euskal hezkuntzak (EAEkoak) gehiengoak hitzartu eta bildu behar ditu bere motelalditik eta zatiketatik ateratzeko, eta erreferentzia eredu bihurtzeko, batzuetan herrialde eskandinaviar batzuk ikusten ditugun bezala. Balio publikoetara bildu nahi duten borondate oneko eragile guztiek parte hartu behar dute akordio zail baina posible horien eraketan, beste erkidego eta herrialde batzuetan posible izan diren akordio eta aurrerapenek erakusten diguten bezala. Administrazioari dagokio, lehenik eta behin, kohesioaren eta demokraziaren inguruko prozesu horien buru izatea. Baina, etorkizunaren erronkekiko miopiagatik edo irismen laburreko interes politikoengatik esku-lotuta, bere funtzioak alboratuko balitu, gizarteak berak arduratu beharko luke abiarazteaz, berandu gabe, partaidetza-prozesu zabal bat, eta ez soilik kupularra.
  
-10. **Euskal hezkuntza ondasun komun gisa ulertzea*. UNESCOren azken dokumentu nagusiaren harira, "Hezkuntza birplanteatzea. Munduko ondasun komun baterantz?", euskal gizarte gisa hezkuntzan sakontzeko aukera paregabe baten aurrean gaude, giza eskubide eta ondasun publiko gisa. Ikusmolde indibidualista eta korporatiboen aurrean, hurrengo belaunaldien etorkizuneko ongizatea bermatuko duen hezkuntza behar dugu, batez ere gizarte-maila ahulenena, eta haren kudeaketaren izaera kolektiboan sakondu behar dugu.
+10. **Euskal hezkuntza ondasun komun gisa ulertzea**. UNESCOren azken dokumentu nagusiaren harira, "Hezkuntza birplanteatzea. Munduko ondasun komun baterantz?", euskal gizarte gisa hezkuntzan sakontzeko aukera paregabe baten aurrean gaude, giza eskubide eta ondasun publiko gisa. Ikusmolde indibidualista eta korporatiboen aurrean, hurrengo belaunaldien etorkizuneko ongizatea bermatuko duen hezkuntza behar dugu, batez ere gizarte-maila ahulenena, eta haren kudeaketaren izaera kolektiboan sakondu behar dugu.
 
 <hr>
 

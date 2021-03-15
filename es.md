@@ -1,5 +1,7 @@
 [Euskera](/) | **Castellano**
 
+<img src="img/icono.png">
+
 <h1 id="adierazpena" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#008080;">MANIFIESTO POR LA COHESIÓN SOCIAL Y LA PARTICIPACIÓN DEMOCRÁTICA EN LA EDUCACIÓN VASCA</span> </h1>
 
 
@@ -11,6 +13,8 @@
 ## Resumen
 
 Manifiesto promovido por la asociación Zubiak Eraikiz Elkartea con el apoyo de …
+
+<img src="img/zubiak-eraikiz_p.png">
 
 
 ## Manifiesto 
@@ -41,11 +45,11 @@ Manifiesto promovido por la asociación Zubiak Eraikiz Elkartea con el apoyo de 
 
 Este manifiesto está disponible en [adierazpena.github.io/es.md](https://adierazpena.github.io/es).
 
-## Firmas / Sinadurak
+## Firmas
 
 -
 
-## Firma el manifiesto / Adierazpena sinatu
+## Firma el manifiesto
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfwq5N2NxDttnR74odIyTSBpgzcE-AFLVuR_epoPB0HxQyFlQ/viewform" class="pressbutton">Firma el manifiesto en este formulario</a>
 
@@ -66,5 +70,8 @@ h1:nth-child(1) {
     font-size: 16px;
     text-align: center;
     border-radius: 20px;
+}
+a {
+ color: #008080;
 }
 </style>
