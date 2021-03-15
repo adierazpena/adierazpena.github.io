@@ -42,9 +42,11 @@ Zubiak Eraikiz Elkarteak sustatutako adierazpena hurrengo pertsonen babesarekin.
  
 10. **Euskal hezkuntza ondasun komun gisa ulertzea**. UNESCOren azken dokumentu nagusiaren harira, "Hezkuntza birplanteatzea. Munduko ondasun komun baterantz?", euskal gizarte gisa hezkuntzan sakontzeko aukera paregabe baten aurrean gaude, giza eskubide eta ondasun publiko gisa. Ikusmolde indibidualista eta korporatiboen aurrean, hurrengo belaunaldien etorkizuneko ongizatea bermatuko duen hezkuntza behar dugu, batez ere gizarte-maila ahulenena, eta haren kudeaketaren izaera kolektiboan sakondu behar dugu.
 
+
+2021eko martxoa.
 <hr>
 
-Este manifiesto está disponible en [adierazpena.github.io](https://adierazpena.github.io/).
+Adierazpen hau [adierazpena.github.io](https://adierazpena.github.io/) -n eskuragarri.
 
 ## Sinadurak
 
