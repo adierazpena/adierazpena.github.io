@@ -4,11 +4,12 @@
 
 <h1 id="adierazpena" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#008080;">Manifiesto por la cohesión social y la participación democrática en la educación vasca</span> </h1>
 
-
 * [Resumen](#resumen)
 * [Manifiesto](#manifiesto)
 * [Firmas](#firmas)
 * [Firma el manifiesto](#firma-el-manifiesto)
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfwq5N2NxDttnR74odIyTSBpgzcE-AFLVuR_epoPB0HxQyFlQ/viewform" class="pressbutton">Firma el manifiesto en este formulario</a>
 
 ## Resumen
 

@@ -15,7 +15,7 @@
 
 Zubiak Eraikiz Elkarteak sustatutako adierazpena hurrengo pertsonen babesarekin...
 
-<img src="img/zubiak-eraikiz_p.png">
+<a href="http://t.me/eraikiz"><img src="img/zubiak-eraikiz_p.png"></a>
 
 
 ## Adierazpena
