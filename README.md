@@ -2,7 +2,7 @@
 
 <img src="img/icono.png">
 
-<h1 id="adierazpena" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#008080;">GIZARTE KOHESIOAREN ETA PARTE HARTZE DEMOKRATIKOAREN ALDEKO ADIERAZPENA EUSKAL HEZKUNTZAN</span></h1>
+<h1 id="adierazpena" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#008080;">Gizarte kohesioaren eta parte hartze demokratikoaren aldeko adierazpena euskal hezkuntzan</span></h1>
 
 * [Laburpena](#laburpena)
 * [Adierazpena](#adierazpena)
@@ -20,7 +20,7 @@ Zubiak Eraikiz Elkarteak sustatutako adierazpena hurrengo pertsonen babesarekin.
 
 ## Adierazpena
 
-### GIZARTE KOHESIOAREN ETA PARTE HARTZE DEMOKRATIKOAREN ALDEKO ADIERAZPENA EUSKAL HEZKUNTZAN
+### Gizarte kohesioaren eta parte hartze demokratikoaren aldeko adierazpena euskal hezkuntzan
 
 1. **Zehaztapen batzuk**. Adierazpen honek ekarpen eraikitzaile bat izan nahi du, baina ez du neutroa izan nahi, ez du zurikeriatan erori nahi. Pertsona partikular askotarikoen atxikimendua bilatu nahi du, lerro hauetan adierazi nahi den ikusmolde partekatuarekin identifikatuta sentitzen badira. Manifestu honek ez du akordio aurreratu eta zehatz bat izan nahi, hori lortzeko lurra prestatzen lagunduko duen oinarri bat baizik. Ez du nahi, ezta ere, xehetasun handikoa izan gai garrantzitsu guztiak aztertuta, baizik zentratu nahi du muinezko auzietan eta aurrerapen posiblean. Beste zehaztapen bat ere bai: euskal hezkuntzaren kontzeptuak Euskal Herriko beste administrazio-errealitate batzuei eragiten badie ere, manifestu honen garapena Euskadira edo Euskal Autonomia Erkidegora mugatzen da, eta esparru horretara jo nahi du berariaz, inor baztertu gabe, noski, helburu  jakin batzuk izateagatik.
  
@@ -45,7 +45,6 @@ Zubiak Eraikiz Elkarteak sustatutako adierazpena hurrengo pertsonen babesarekin.
 <hr>
 
 Este manifiesto está disponible en [adierazpena.github.io](https://adierazpena.github.io/).
-
 
 ## Sinadurak
 
@@ -72,5 +71,8 @@ h1:nth-child(1) {
     font-size: 16px;
     text-align: center;
     border-radius: 20px;
+}
+a {
+ color: #008080;
 }
 </style>

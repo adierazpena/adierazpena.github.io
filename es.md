@@ -2,7 +2,7 @@
 
 <img src="img/icono.png">
 
-<h1 id="adierazpena" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#008080;">MANIFIESTO POR LA COHESIÓN SOCIAL Y LA PARTICIPACIÓN DEMOCRÁTICA EN LA EDUCACIÓN VASCA</span> </h1>
+<h1 id="adierazpena" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#008080;">Manifiesto por la cohesión social y la participación democrática en la educación vasca</span> </h1>
 
 
 * [Resumen](#resumen)
@@ -14,12 +14,12 @@
 
 Manifiesto promovido por la asociación Zubiak Eraikiz Elkartea con el apoyo de …
 
-<img src="img/zubiak-eraikiz_p.png">
+<a href="http://t.me/eraikiz"><img src="img/zubiak-eraikiz_p.png"></a>
 
 
 ## Manifiesto 
 
-### MANIFIESTO POR LA COHESIÓN SOCIAL Y LA PARTICIPACIÓN DEMOCRÁTICA EN LA EDUCACIÓN VASCA
+### Manifiesto por la cohesión social y la participación democrática en la educación vasca
  
 1. **Algunas precisiones**. La presente declaración pretende ser una aportación constructiva, aunque no neutra ni equidistante. Busca la adhesión de personas particulares de variada pertenencia, pero que se sienten identificadas con el denominador común que se busca expresar en estas líneas. Este manifiesto no pretende ser un acuerdo avanzado y concreto, sino una base que ayude a preparar el terreno para lograrlo. Tampoco ser exhaustivo, sin dejar fuera ninguna cuestión importante, sino centrarse en lo nuclear y en el avance posible. Otra precisión: aunque el concepto de educación vasca afecta a otras realidades administrativas de Euskal Herria, el desarrollo de este manifiesto se ciñe a Euskadi o Comunidad Autónoma del País Vasco y es a ese ámbito al que de manera específica pretende dirigirse, sin que ello suponga la exclusión de nadie por sus aspiraciones políticas.
  
@@ -43,7 +43,7 @@ Manifiesto promovido por la asociación Zubiak Eraikiz Elkartea con el apoyo de 
 
 <hr>
 
-Este manifiesto está disponible en [adierazpena.github.io/es.md](https://adierazpena.github.io/es).
+Este manifiesto está disponible en [adierazpena.github.io/es](https://adierazpena.github.io/es).
 
 ## Firmas
 
