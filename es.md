@@ -37,7 +37,7 @@ El carácter público del pacto, político y social, obligaría y comprometería
 Hacemos, finalmente, una llamada a no dejar pasar esta oportunidad para que un consistente acuerdo entre diferentes permita responder a la preocupante segregación escolar, y mejorar la euskaldunización y los resultados escolares de todo el alumnado, síntomas de la incapacidad de nuestro sistema de reaccionar ante la inequidad. Es una oportunidad para  mejorar sustantivamente la cohesión social de nuestras escuelas y de nuestro país, más aún en el escenario urgente al que nos empuja la bajada de la natalidad, que amenaza con agravar esta situación en un contexto sobrevenido de sobreoferta de plazas escolares. La ILP Eskola Inklusiboa de 2018 fue una ocasión perdida. Ojalá afrontemos ahora con decisión los importantes problemas y retos que tiene la Educación vasca.
 
 <hr>
-Lurdes Errasti, Nacho Eguizabal, Aitor Idigoras, Asier Etxenike, Pablo García de Vicuña
+Lurdes Errasti, Nacho Eguizábal, Aitor Idigoras, Asier Etxenike, Pablo García de Vicuña
 
 Este artículo está disponible en [adierazpena.github.io/es](https://adierazpena.github.io/es).
 
