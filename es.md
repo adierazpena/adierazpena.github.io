@@ -9,7 +9,7 @@
 * [Apoyos a la propuesta del artículo](#apoyos-a-la-propuesta-del-artículo)
 * [Para apoyar la propuesta del artículo](#para-apoyar-la-propuesta-del-artículo)
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfwq5N2NxDttnR74odIyTSBpgzcE-AFLVuR_epoPB0HxQyFlQ/viewform" class="pressbutton">Firma el manifiesto en este formulario</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfwq5N2NxDttnR74odIyTSBpgzcE-AFLVuR_epoPB0HxQyFlQ/viewform" class="pressbutton">Apoya el artículo en este formulario</a>
 
 ## Resumen
 
